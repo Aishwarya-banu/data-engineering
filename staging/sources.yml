@@ -1,0 +1,11 @@
+version: 2
+sources:
+  - name: jaffle_shop
+    database: third-flare-464317-r8
+    schema: jaffle_shop
+    tables:
+      - name: customers
+      - name: orders
+      - name: items
+      - name: products
+      - name: supplies
